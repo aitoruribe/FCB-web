@@ -28,7 +28,7 @@ article img{
 
 
 .header{
-   background:url(../img/fondorap.png);
+   background:url(..fondorap.png);
    background-position: center;
    background-size: cover;   
    background-repeat: no-repeat;
@@ -508,3 +508,4 @@ article img{
    width: 80px;
    height: 80px
 }
+
